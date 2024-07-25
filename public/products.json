@@ -1,0 +1,28 @@
+[
+    {
+        "Name":"sumsang",
+        "Price":"40000",
+        "Stock":true
+    },
+
+    {
+        "Name":"Oppo",
+        "Price":"30000",
+        "Stock":false
+    },
+    {
+        "Name":"Vivo",
+        "Price":"340000",
+        "Stock":true
+    },
+    {
+        "Name":"Redmi",
+        "Price":"60000",
+        "Stock":false
+    },
+    {
+        "Name":"iphone",
+        "Price":"1040000",
+        "Stock":true
+    }
+]
